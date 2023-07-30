@@ -1,3 +1,5 @@
+//1) Topic: Online Store Discount Calculator (If-Else Statement)
+
 let a = parseFloat (prompt("Enter a number"));
 let discountedAmmount=0;
 let totalAmount=0;
